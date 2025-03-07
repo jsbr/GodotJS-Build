@@ -27,7 +27,7 @@ jobs:
         with: 
           repository: godotengine/godot
           path: godot
-          ref: 4.3
+          ref: 4.4
 
       - uses: actions/checkout@v4
         with:
